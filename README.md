@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
