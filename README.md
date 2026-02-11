@@ -58,6 +58,7 @@
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +118,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -129,6 +131,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -142,6 +145,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -151,4 +155,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
