@@ -26,6 +26,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -118,6 +119,7 @@
 | [0110-balanced-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
@@ -148,6 +150,7 @@
 | [0110-balanced-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
