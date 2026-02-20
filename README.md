@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rayyan-kra/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0173-binary-search-tree-iterator) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
