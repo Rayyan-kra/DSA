@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
@@ -116,6 +117,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
