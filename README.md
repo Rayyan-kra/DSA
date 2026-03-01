@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -124,6 +126,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0516-longest-palindromic-subsequence) |
