@@ -26,6 +26,7 @@
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0733-flood-fill) |
@@ -142,6 +143,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -255,6 +257,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -308,6 +311,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0994-rotting-oranges) |
 ## Trie
