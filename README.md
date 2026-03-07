@@ -71,6 +71,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0424-longest-repeating-character-replacement) |
@@ -83,6 +84,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
@@ -255,6 +257,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
