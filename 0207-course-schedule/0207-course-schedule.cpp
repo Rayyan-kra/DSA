@@ -1,38 +1,34 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        
-        vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses,0);
+    bool helper(int src,vector<bool> &vis,vector<bool> &rect,vector<vector<int>>&edges){
+        vis[src]=true;
+        rect[src]=true;
 
-        for(auto &p : prerequisites){
-            adj[p[1]].push_back(p[0]);
-            indegree[p[0]]++;
+        for(int i=0;i<edges.size();i++){
+        int v=edges[i][0];
+        int u=edges[i][1];
+
+        if(u==src){
+            if(!vis[v]){
+                if(helper(v,vis,rect,edges)) return true;
+            }
+            else if(rect[v]){
+                return true;
+            }
+            
         }
-
-        queue<int> q;
-
-        for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                q.push(i);
+      }
+      rect[src]=false;
+      return false;
+    }
+    bool canFinish(int n, vector<vector<int>>&edges) {
+        vector<bool> vis(n,false);
+        vector<bool> rect(n,false);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                if(helper(i,vis,rect,edges))return false;
             }
         }
-
-        int count=0;
-
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            count++;
-
-            for(auto neigh : adj[node]){
-                indegree[neigh]--;
-                if(indegree[neigh]==0){
-                    q.push(neigh);
-                }
-            }
-        }
-
-        return count==numCourses;
+        return true;
     }
 };
