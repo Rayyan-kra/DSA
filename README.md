@@ -40,6 +40,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +330,7 @@
 | [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
