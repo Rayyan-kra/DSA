@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +122,7 @@
 | [0088-merge-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -134,6 +136,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,4 +365,24 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
