@@ -106,6 +106,7 @@
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0977-squares-of-a-sorted-array) |
