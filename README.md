@@ -115,6 +115,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
@@ -415,4 +417,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
