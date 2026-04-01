@@ -50,6 +50,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Stack
 |  |
 | ------- |
