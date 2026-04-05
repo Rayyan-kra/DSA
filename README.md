@@ -117,6 +117,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0208-implement-trie-prefix-tree) |
@@ -185,6 +186,7 @@
 | [0120-triangle](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0198-house-robber) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Rayyan-kra/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
 ## Bit Manipulation
