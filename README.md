@@ -45,6 +45,7 @@
 | [0733-flood-fill](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -106,6 +107,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -437,5 +439,6 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
