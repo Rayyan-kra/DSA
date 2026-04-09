@@ -167,6 +167,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0092-reverse-linked-list-ii) |
@@ -446,4 +447,8 @@
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
