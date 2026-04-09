@@ -145,6 +145,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0088-merge-sorted-array) |
@@ -167,6 +168,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
