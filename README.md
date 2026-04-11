@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0131-palindrome-partitioning) |
