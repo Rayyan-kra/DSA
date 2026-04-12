@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0018-4sum) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
