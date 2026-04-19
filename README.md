@@ -40,6 +40,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
@@ -72,6 +73,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -173,6 +175,7 @@
 | [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -404,6 +407,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0994-rotting-oranges) |
@@ -439,6 +443,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
