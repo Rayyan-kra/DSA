@@ -34,6 +34,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0238-product-of-array-except-self) |
@@ -295,6 +296,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rayyan-kra/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
@@ -348,6 +350,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rayyan-kra/DSA/tree/master/0226-invert-binary-tree) |
@@ -415,6 +418,7 @@
 | [0064-minimum-path-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0542-01-matrix) |
@@ -429,6 +433,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
