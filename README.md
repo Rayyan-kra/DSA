@@ -21,6 +21,7 @@
 | [0057-insert-interval](https://github.com/Rayyan-kra/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0088-merge-sorted-array) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
