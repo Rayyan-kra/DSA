@@ -135,6 +135,7 @@
 | [0006-zigzag-conversion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0131-palindrome-partitioning) |
