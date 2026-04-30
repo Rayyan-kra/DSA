@@ -111,6 +111,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0058-length-of-last-word) |
@@ -153,6 +155,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
