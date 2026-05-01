@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
@@ -218,6 +219,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rayyan-kra/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0062-unique-paths) |
@@ -246,6 +248,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rayyan-kra/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0646-maximum-length-of-pair-chain) |
