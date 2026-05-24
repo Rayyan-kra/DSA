@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rayyan-kra/DSA/tree/master/0055-jump-game) |
@@ -162,6 +163,7 @@
 | [0007-reverse-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
@@ -434,6 +436,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0064-minimum-path-sum) |
