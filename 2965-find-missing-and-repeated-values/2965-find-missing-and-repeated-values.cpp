@@ -1,20 +1,37 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
+
         int n = grid.size();
-        vector<int> freq(n*n + 1, 0);
-        
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                freq[grid[i][j]]++;
+
+        vector<int> arr;
+
+        // convert 2D -> 1D
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                arr.push_back(grid[i][j]);
             }
         }
 
-        int repeat = -1, missing = -1;
+        sort(arr.begin(), arr.end());
 
-        for(int i = 1; i <= n*n; i++){
-            if(freq[i] == 2) repeat = i;
-            if(freq[i] == 0) missing = i;
+        int repeat = -1;
+        int missing = -1;
+
+        // find repeated
+        for(int i = 0; i < arr.size() - 1; i++) {
+            if(arr[i] == arr[i + 1]) {
+                repeat = arr[i];
+                break;
+            }
+        }
+
+        // find missing
+        for(int i = 1; i <= n * n; i++) {
+            if(!binary_search(arr.begin(), arr.end(), i)) {
+                missing = i;
+                break;
+            }
         }
 
         return {repeat, missing};
