@@ -75,6 +75,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2574-left-and-right-sum-differences](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -114,6 +115,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
