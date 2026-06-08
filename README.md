@@ -145,6 +145,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
@@ -232,6 +233,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rayyan-kra/DSA/tree/master/0055-jump-game) |
@@ -520,6 +522,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0050-powx-n) |
