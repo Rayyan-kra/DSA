@@ -155,6 +155,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
