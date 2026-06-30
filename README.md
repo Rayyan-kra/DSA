@@ -183,6 +183,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0050-powx-n) |
@@ -432,6 +433,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
