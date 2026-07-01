@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
@@ -197,6 +198,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -252,6 +254,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
