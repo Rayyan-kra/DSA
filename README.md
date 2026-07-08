@@ -191,6 +191,7 @@
 | [0062-unique-paths](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
@@ -264,6 +265,7 @@
 | [0063-unique-paths-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rayyan-kra/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rayyan-kra/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rayyan-kra/DSA/tree/master/0101-symmetric-tree) |
@@ -370,6 +373,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rayyan-kra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rayyan-kra/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rayyan-kra/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rayyan-kra/DSA/tree/master/0101-symmetric-tree) |
@@ -443,6 +447,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rayyan-kra/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rayyan-kra/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
