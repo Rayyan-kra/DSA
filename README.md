@@ -182,6 +182,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0029-divide-two-integers) |
@@ -234,6 +235,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0025-reverse-nodes-in-k-group) |
@@ -564,6 +566,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0025-reverse-nodes-in-k-group) |
