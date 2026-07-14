@@ -14,13 +14,13 @@ public:
 
     while(fast!=slow){
         if(fast==nullptr){
-            fast=headA;
+            fast=headB;
         }
         else{
             fast=fast->next;
         }
         if(slow==nullptr){
-            slow=headB;
+            slow=headA;
         }
         else{
             slow=slow->next;
