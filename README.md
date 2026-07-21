@@ -76,6 +76,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1306-jump-game-iii) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -243,6 +244,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Stack
 |  |
