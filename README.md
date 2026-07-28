@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0090-subsets-ii) |
@@ -463,6 +464,7 @@
 | [0051-n-queens](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0113-path-sum-ii) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
