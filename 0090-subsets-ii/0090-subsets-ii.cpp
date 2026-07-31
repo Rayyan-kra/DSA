@@ -1,19 +1,29 @@
 class Solution {
 public:
-    void fun(int ind, vector<int>& nums, vector<int>& ds, vector<vector<int>>& ans) {
-        ans.push_back(ds);
-        for (int i = ind; i < nums.size(); i++) {
-            if (i > ind && nums[i] == nums[i - 1]) continue;
-            ds.push_back(nums[i]);
-            fun(i + 1, nums, ds, ans);
-            ds.pop_back();
+    void subsequence(vector<int>& nums, int index, int n, vector<vector<int>>& ans, vector<int>& temp) {
+        if (index >= n) {
+            ans.push_back(temp);
+            return;
         }
+
+        int idx = index + 1;
+        while (idx < n && nums[idx] == nums[idx - 1]) idx++;
+
+        subsequence(nums, idx, n, ans, temp);
+
+        temp.push_back(nums[index]);
+        subsequence(nums, index + 1, n, ans, temp);
+        temp.pop_back();
     }
+
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        sort(nums.begin(), nums.end()); 
+        sort(nums.begin(), nums.end());
+
         vector<vector<int>> ans;
-        vector<int> ds;
-        fun(0, nums, ds, ans);
+        vector<int> temp;
+
+        subsequence(nums, 0, nums.size(), ans, temp);
+
         return ans;
     }
 };
