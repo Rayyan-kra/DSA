@@ -81,6 +81,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1306-jump-game-iii) |
+| [1386-cinema-seat-allocation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1732-find-the-highest-altitude) |
@@ -166,6 +167,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -344,6 +346,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Stack
@@ -498,6 +501,7 @@
 | [0078-subsets](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rayyan-kra/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search Tree
 |  |
 | ------- |
