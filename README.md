@@ -94,6 +94,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -617,6 +618,7 @@
 | [0054-spiral-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0054-spiral-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
