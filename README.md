@@ -73,6 +73,7 @@
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -172,6 +173,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1189-maximum-number-of-balloons) |
@@ -232,6 +234,7 @@
 | [0189-rotate-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
@@ -604,6 +607,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0229-majority-element-ii) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
@@ -673,4 +677,16 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1927-sum-game) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
