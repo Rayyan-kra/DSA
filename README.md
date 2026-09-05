@@ -103,6 +103,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
