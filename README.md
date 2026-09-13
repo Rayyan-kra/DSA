@@ -234,6 +234,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0507-perfect-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
