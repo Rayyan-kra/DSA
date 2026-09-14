@@ -700,4 +700,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
