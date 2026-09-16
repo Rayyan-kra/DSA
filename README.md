@@ -199,6 +199,7 @@
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0139-word-break) |
@@ -264,6 +265,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0151-reverse-words-in-a-string) |
