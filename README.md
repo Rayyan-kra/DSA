@@ -97,6 +97,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -183,6 +184,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -618,6 +620,7 @@
 | [0229-majority-element-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0229-majority-element-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1189-maximum-number-of-balloons) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
