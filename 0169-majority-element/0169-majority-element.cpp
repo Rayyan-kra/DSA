@@ -12,7 +12,7 @@ public:
             count=1;
         }
         if(count>nums.size()/2){
-            return nums[i+1];
+            return nums[i];
         }
     }    
     return -1;
