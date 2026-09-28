@@ -225,6 +225,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1927-sum-game) |
@@ -411,6 +412,7 @@
 | [0234-palindrome-linked-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Rayyan-kra/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -738,4 +740,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
