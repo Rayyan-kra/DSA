@@ -208,6 +208,7 @@
 | [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0058-length-of-last-word) |
@@ -359,6 +360,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rayyan-kra/DSA/tree/master/0055-jump-game) |
@@ -537,6 +539,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0046-permutations) |
@@ -748,5 +751,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
