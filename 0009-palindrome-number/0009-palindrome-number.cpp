@@ -4,7 +4,7 @@ public:
     string s =to_string(x);
     int low=0;
     int high=s.size()-1;
-    while(low <=high){
+    while(low <high){
         if(s[low]!=s[high])return false;
         low++;
         high--;
