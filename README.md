@@ -90,6 +90,7 @@
 | [1306-jump-game-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1306-jump-game-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -153,6 +154,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2574-left-and-right-sum-differences) |
