@@ -12,7 +12,7 @@ public:
             h--;
             continue;
         }
-        if(tolower(s[l])!=tolower(s[h])){
+        if(tolower(s[l]) !=tolower(s[h])){
             return false;
         }
         l++;
