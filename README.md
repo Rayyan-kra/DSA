@@ -63,6 +63,7 @@
 | [0283-move-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -130,6 +131,7 @@
 | [0268-missing-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0704-binary-search) |
@@ -186,6 +188,7 @@
 | [0242-valid-anagram](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -303,6 +306,7 @@
 | [0234-palindrome-linked-list](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -325,6 +329,7 @@
 | [0268-missing-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0455-assign-cookies) |
