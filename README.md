@@ -67,6 +67,7 @@
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0494-target-sum) |
@@ -263,6 +264,7 @@
 | [0204-count-primes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0836-rectangle-overlap) |
