@@ -129,6 +129,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -264,6 +265,7 @@
 | [0060-permutation-sequence](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0189-rotate-array) |
@@ -791,4 +793,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0204-count-primes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
