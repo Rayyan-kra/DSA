@@ -94,6 +94,7 @@
 | [0994-rotting-oranges](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1306-jump-game-iii) |
@@ -146,6 +147,7 @@
 | [0704-binary-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1539-kth-missing-positive-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
