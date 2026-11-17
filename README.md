@@ -86,6 +86,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Rayyan-kra/DSA/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -148,6 +149,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1539-kth-missing-positive-number) |
