@@ -118,6 +118,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -165,6 +166,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [1927-sum-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -750,6 +753,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Game Theory
 |  |
 | ------- |
@@ -759,6 +763,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
