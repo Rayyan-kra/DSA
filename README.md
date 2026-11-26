@@ -292,6 +292,7 @@
 | [1927-sum-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -720,6 +721,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rayyan-kra/https-github.com-Rayyan-kra-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
